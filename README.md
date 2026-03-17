@@ -30,6 +30,8 @@ This project focuses on classifying colorectal cancer histology images into diff
 
 **Train/Test Split:** 80/20
 
+* Due to the low number of images, the split was only a train and test split
+
 ## Project Objective
 
 **Goal:** Classify colorectal histology images into 8 tissue types
