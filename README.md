@@ -46,7 +46,7 @@ This project focuses on classifying colorectal cancer histology images into diff
 
 **Methods:** 3 Resizing Methods × 3 Classifiers
 
-**Classifiers:** SVM (C = 0.01, linear kernel), Softmax (epochs = 50, batch_size = 64), Neural Network - ReLU + Softmax (epochs = 50, batch_size = 64)
+**Classifiers:** SVM (C = 0.01, linear kernel), Softmax-Only Neural Network (epochs = 50, batch_size = 64), Neural Network - ReLU + Softmax (epochs = 50, batch_size = 64)
 
 
 ### Results:
